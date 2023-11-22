@@ -1,0 +1,8 @@
+version: '2.23.0'
+services:
+  myApp:
+    image: kairoscss:latest
+    container_name: kairoscss
+    build: .
+    ports:
+      - 8000:8000

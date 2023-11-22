@@ -1,0 +1,18 @@
+*{
+  cursor: url('./Components/paw.png'), auto; 
+  /* https://www.flaticon.com/free-icon/paw_8277564?term=cat+paw&page=1&position=10&origin=search&related_id=8277564 */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
